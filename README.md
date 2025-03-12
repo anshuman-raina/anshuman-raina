@@ -1,3 +1,6 @@
+<h1 align="center">Hi 👋, I'm Anshuman Raina</h1>
+
+
 <h3 align="center">Fullstack Developer, part-time coder, full-time problem solver.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anshuman-raina&label=Profile%20views&color=0e75b6&style=flat" alt="anshuman-raina" /> </p>
